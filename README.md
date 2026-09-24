@@ -32,7 +32,7 @@
 
 > **“流量没有特别大，希望套餐和使用方式简单一点，应该怎么选？”**
 
-[查看速网云官网 →](https://suwangyun.com/)
+[查看速网云官网 →](https://suwangyun.top/)
 
 ## 再认识 Just My Socks
 
@@ -283,7 +283,7 @@ Just My Socks 最大的误区之一，是把“JMS”当成一个单一套餐。
 - VLESS / AnyTLS 属于明确需求；
 - 不想在不同地区产品线之间做复杂选择。
 
-[查看速网云当前入口 →](https://suwangyun.com/)
+[查看速网云当前入口 →](https://suwangyun.top/)
 
 ## 什么情况下JMS更值得继续看
 
